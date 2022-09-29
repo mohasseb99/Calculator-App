@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome to Calculator App</string>
+    <string name="name">Mahmoud Abdalla Mohasseb</string>
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="divide">÷</string>
+    <string name="multiply">*</string>
+    <string name="sum">+</string>
+    <string name="subtract">-</string>
+    <string name="equal">=</string>
+    <string name="calc">cal</string>
+    <string name="conv">con</string>
+    <string name="mod">%</string>
+    <string name="memRemove">MC</string>
+    <string name="memRecall">MR</string>
+    <string name="memPlus">M+</string>
+    <string name="memSubtract">M-</string>
+    <string name="memStore">MS</string>
+    <string name="removeAll">C</string>
+    <string name="backSpace">Backspace</string>
+    <string name="decimal">Dec</string>
+    <string name="binary">Bin</string>
+    <string name="octal">Oct</string>
+    <string name="hexa">Hex</string>
+    <string name="plusNega">+/_</string>
+    <string name="floatPoint">.</string>
+</resources>
